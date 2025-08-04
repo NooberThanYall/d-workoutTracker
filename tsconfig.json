@@ -1,0 +1,15 @@
+{
+   "compilerOptions": {
+      "lib": [
+         "ES2022"
+      ],
+      "target": "es2022",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "outDir": "./build",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "sourceMap": true,
+      "allowSyntheticDefaultImports": true
+   }
+}
